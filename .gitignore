@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+
+# ignore __pycache__ 
+__pycache__
+
+
+# ingore virtual env setup
+venv
